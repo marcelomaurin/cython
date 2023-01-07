@@ -7,3 +7,6 @@ Sample Cython
 > pip3 install sam
 
 
+## Compile
+> make compile
+
