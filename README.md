@@ -1,5 +1,6 @@
 # cython
-Sample Cython
+Sample Cython.
+Cython generates C code from a python script.
 
 ## Pre require
 
